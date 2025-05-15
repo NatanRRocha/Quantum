@@ -21,3 +21,7 @@ The Quantum Algorithm GPT is tailored to not only explain these concepts but als
 #
 
 [New Science](https://github.com/sourceduty/New_Science)
+<br>
+[Quantum Algorithm Engine](https://github.com/sourceduty/Quantum_Algorithm_Engine)
+<br>
+[Quantum Weight](https://github.com/sourceduty/Quantum_Weight)
