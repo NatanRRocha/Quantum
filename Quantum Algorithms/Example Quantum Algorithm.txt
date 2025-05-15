@@ -1,0 +1,26 @@
+Algorithm: Quantum Phase Estimation (QPE)
+
+Description:
+Quantum Phase Estimation (QPE) is a fundamental quantum algorithm used to estimate the eigenvalues of a unitary operator. It is crucial for many quantum algorithms, including Shor’s factoring algorithm and applications in quantum chemistry.
+
+Steps:
+1. Initialize \( n \) control qubits in the \( |0\rangle \) state and a target qubit in the eigenstate \( |\psi\rangle \).
+2. Apply Hadamard gates to all \( n \) control qubits to create a superposition state.
+3. Use controlled-unitary operations to apply \( U^{2^j} \) on the target qubit, where \( U \) is the unitary whose phase we want to estimate.
+4. Perform an inverse Quantum Fourier Transform (QFT) on the control qubits to extract the phase information.
+5. Measure the control qubits to obtain an estimate of the phase.
+
+Quantum Circuit Representation:
+- Apply Hadamard gates: \( H^{\otimes n} |0\rangle^{\otimes n} \)
+- Controlled unitary operations: \( CU^{2^j} \)
+- Apply inverse QFT: \( QFT^{-1} \)
+- Measure the qubits.
+
+Mathematical Formulation:
+Given \( U |\psi\rangle = e^{2\pi i \theta} |\psi\rangle \), the algorithm estimates \( \theta \) by encoding it in the probability amplitudes of the measured qubits.
+
+Complexity:
+The algorithm requires \( O(n) \) qubits and \( O(n^2) \) operations, making it efficient for problems where eigenvalue estimation is crucial.
+
+Use Case:
+Quantum Phase Estimation is widely used in quantum computing for solving problems in physics, chemistry, and cryptography.

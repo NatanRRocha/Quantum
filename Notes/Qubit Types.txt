@@ -1,0 +1,112 @@
+Qubits
+├── Superconducting Qubits
+│   ├── Transmon Qubit
+│   │   ├── Based on a nonlinear superconducting circuit
+│   │   ├── Uses Josephson junctions
+│   │   └── Relatively stable and robust against noise
+│   ├── Flux Qubit
+│   │   ├── Utilizes superconducting loops
+│   │   ├── Magnetic flux determines quantum state
+│   │   └── Sensitive to magnetic fields
+│   ├── Phase Qubit
+│   │   ├── Relies on phase difference across superconducting circuit
+│   │   ├── Uses a Josephson junction to create phase-based quantum states
+│   │   └── Can be sensitive to decoherence
+│   ├── Xmon Qubit
+│   │   ├── Modification of the transmon qubit
+│   │   ├── More resilient to noise and decoherence
+│   │   └── Employs a more compact design for better scalability
+
+├── Photonic Qubits
+│   ├── Polarization Qubit
+│   │   ├── Utilizes the polarization states of photons
+│   │   ├── Can be encoded in horizontal/vertical or circular polarization
+│   │   └── Easily manipulated using optical elements
+│   ├── Time-Bin Qubit
+│   │   ├── Encodes information in the time of arrival of a photon
+│   │   ├── Resistant to noise over long distances
+│   │   └── Useful for quantum communication applications
+│   ├── Path Qubit
+│   │   ├── Information encoded in the path of a photon
+│   │   ├── Can be implemented using interferometers
+│   │   └── Sensitive to environmental disturbances
+
+├── Trapped Ion Qubits
+│   ├── Ytterbium Ions
+│   │   ├── Uses the electron spin or internal energy levels of Ytterbium ions
+│   │   ├── High fidelity in quantum operations
+│   │   └── Typically requires a high-vacuum environment
+│   ├── Beryllium Ions
+│   │   ├── Uses internal electron states of Beryllium ions
+│   │   ├── Excellent coherence times
+│   │   └── Requires complex laser systems for manipulation
+│   ├── Calcium Ions
+│   │   ├── Involves both ground and excited states of Calcium ions
+│   │   ├── Requires precision laser control for operations
+│   │   └── High precision in quantum gates
+│   ├── Strontium Ions
+│   │   ├── Uses the internal electron structure of Strontium ions
+│   │   ├── Known for long coherence times
+│   │   └── Complex setup for precise qubit control
+
+├── Neutral Atom Qubits
+│   ├── Rydberg Blockade
+│   │   ├── Relies on highly excited states of atoms
+│   │   ├── The presence of one atom in a Rydberg state blocks nearby atoms
+│   │   └── Potential for scalable quantum systems
+
+├── Silicon Spin Qubits
+│   ├── Single-Electron Spin Qubit
+│   │   ├── Uses the spin of a single electron confined in a semiconductor
+│   │   ├── Highly sensitive to magnetic fields
+│   │   └── Offers potential for scalability due to compatibility with semiconductor technology
+│   ├── Donor-Based Qubit
+│   │   ├── Utilizes phosphorus or other donor atoms in silicon
+│   │   ├── Electrons associated with donor atoms serve as qubits
+│   │   └── Challenges with decoherence and scalability
+
+├── NV Center Qubits
+│   ├── Nitrogen Vacancy Center
+│   │   ├── A point defect in diamond with nitrogen atoms replacing carbon
+│   │   ├── Uses electron spins of the NV center to store qubit states
+│   │   └── Suitable for quantum sensing and quantum communication
+│   ├── Silicon Vacancy Center
+│   │   ├── Similar to NV centers but uses silicon in diamond
+│   │   ├── Can be engineered for better coherence properties
+│   │   └── Emerging as a potential candidate for quantum computing
+│   ├── Germanium Vacancy Center
+│   │   ├── A point defect in germanium
+│   │   ├── Similar to NV centers in diamond
+│   │   └── Offers new possibilities in solid-state quantum devices
+│   ├── Tin Vacancy Center
+│   │   ├── Point defect in diamond involving tin atoms
+│   │   ├── Still under investigation for quantum applications
+│   │   └── Has promising properties for quantum information storage
+
+├── Topological Qubits
+│   ├── Majorana Qubit
+│   │   ├── Based on Majorana fermions, which are their own antiparticles
+│   │   ├── Theoretically robust against decoherence
+│   │   └── Potential for topological quantum computing
+
+├── Quantum Dot Qubits
+│   ├── Semiconductor Quantum Dot Qubit
+│   │   ├── Involves confining electrons in a semiconductor material
+│   │   ├── Electron spins represent the quantum states
+│   │   └── Has potential for integration with existing semiconductor technology
+
+├── BEC Qubits
+│   ├── Bose-Einstein Condensate Qubit
+│   │   ├── Uses a state of matter created at ultra-cold temperatures
+│   │   ├── Atoms in BEC exhibit quantum behaviors on macroscopic scales
+│   │   └── Potential for unique quantum phenomena and high coherence
+
+├── Hybrid Qubits
+│   ├── Superconducting + Spin Qubit
+│   │   ├── Combines the fast operation of superconducting qubits with the stability of spin qubits
+│   │   ├── Aims to take advantage of both technologies for improved performance
+│   │   └── Requires specialized interfacing between the two systems
+│   ├── Trapped Ion + Photonic Qubit
+│   │   ├── Integrates the precision of trapped ions with the long-distance communication ability of photons
+│   │   ├── Enables potential for scalable quantum networks
+│   │   └── Involves complex interfacing between trapped ions and photonic systems
