@@ -1,0 +1,43 @@
+Quantum Mediums
+│
+├── Superconducting Qubits
+│   ├── Transmon (Materials: Aluminum, Niobium, Sapphire, Silicon)
+│   ├── Flux Qubit (Materials: Niobium, Aluminum, Josephson Junctions)
+│   ├── Phase Qubit (Materials: Niobium, Superconducting Josephson Junctions)
+│
+├── Trapped Ions
+│   ├── Electromagnetic Traps (Materials: Gold Electrodes, Sapphire Substrate, Ultra-high Vacuum Chambers)
+│   ├── Optical Tweezers (Materials: High-power Lasers, Optical Lenses, Ultra-high Vacuum Chambers)
+│
+├── Photonics
+│   ├── Beam Splitters (Materials: Dielectric Coatings, Fused Silica, Glass)
+│   ├── Interferometers (Materials: Optical Fibers, Beam Splitters, Mirrors)
+│   ├── Waveguides (Materials: Silicon Photonics, Lithium Niobate, Glass, Optical Polymers)
+│
+└── Spin-based Qubits
+    ├── Quantum Dots (Materials: Gallium Arsenide, Indium Arsenide, Silicon)
+    ├── NV Centers in Diamond (Materials: Synthetic Diamond with Nitrogen Vacancy Defects)
+    ├── Silicon Qubits (Materials: Silicon, Silicon-Germanium Heterostructures)
+
+-----------------------------------------------------------
+
+Simple Quantum Mediums
+│
+├── Superconducting Qubits
+│   ├── Transmon (Materials: Aluminum, Sapphire)
+│   ├── Flux Qubit (Materials: Niobium, Aluminum)
+│   ├── Phase Qubit (Materials: Niobium)
+│
+├── Trapped Ions
+│   ├── Electromagnetic Traps (Materials: Gold, Glass, Vacuum)
+│   ├── Optical Tweezers (Materials: Lasers, Lenses, Vacuum)
+│
+├── Photonics
+│   ├── Beam Splitters (Materials: Glass, Coatings)
+│   ├── Interferometers (Materials: Glass, Mirrors)
+│   ├── Waveguides (Materials: Silicon, Glass)
+│
+└── Spin-based Qubits
+    ├── Quantum Dots (Materials: Silicon, Arsenide)
+    ├── NV Centers in Diamond (Materials: Diamond)
+    ├── Silicon Qubits (Materials: Silicon)

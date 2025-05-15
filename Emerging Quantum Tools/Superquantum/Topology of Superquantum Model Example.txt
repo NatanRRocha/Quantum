@@ -1,0 +1,31 @@
+Nonlocal Superquantum Computing
+│
+├── Foundations
+│   ├── Quantum Nonlocality (Bell Inequality Violation)
+│   ├── No-Signaling Theories
+│   ├── Popescu-Rohrlich (PR) Boxes
+│   ├── Generalized Probabilistic Theories (GPTs)
+│
+├── Information Processing Models
+│   ├── Superquantum Communication Complexity
+│   ├── Nonlocal XOR Games (Maximal Nonlocal Advantage)
+│   ├── Beyond-Tsirelson Bound Correlations
+│   ├── Nonlocality-Assisted Computation
+│
+├── Computational Structures
+│   ├── PR-Box-Based Logic Gates
+│   ├── Nonlocal Quantum Circuits
+│   ├── Superquantum Cryptographic Protocols
+│   ├── Nonlocal Resource Theories
+│
+├── Theoretical Limits
+│   ├── No-Signaling Constraint on Computability
+│   ├── Computational Power of Superquantum Correlations
+│   ├── Relationship to Polynomial Hierarchy Collapse
+│   ├── Complexity Classes in Superquantum Theories
+│
+└── Speculative Extensions
+    ├── Embedding into Holographic Space-Time
+    ├── ER=EPR in Superquantum Regime
+    ├── Hypercomputing via Nonlocal Correlations
+    ├── Planck-Scale Information Processing

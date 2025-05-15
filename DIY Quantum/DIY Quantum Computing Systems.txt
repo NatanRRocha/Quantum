@@ -1,0 +1,46 @@
+DIY Quantum Computing Systems
+│
+├── Hardware Components
+│   ├── Qubit Implementations
+│   │   ├── Superconducting Qubits
+│   │   ├── Trapped Ions
+│   │   ├── Photonic Qubits
+│   │   ├── Spin-based Qubits
+│   ├── Control Electronics
+│   │   ├── FPGA-based Controllers
+│   │   ├── Arbitrary Waveform Generators
+│   │   ├── Cryogenic Amplifiers
+│   ├── Measurement & Readout
+│   │   ├── Homodyne/heterodyne detection
+│   │   ├── Quantum State Tomography
+│   │   ├── Photodetectors & CCDs
+│   ├── Environmental Control
+│   │   ├── Cryogenics (Dilution Refrigerators)
+│   │   ├── Vacuum Systems
+│   │   ├── Magnetic Shielding
+│
+├── Software & Control
+│   ├── Quantum Programming Frameworks
+│   │   ├── Qiskit
+│   │   ├── Cirq
+│   │   ├── Braket
+│   │   ├── Strawberry Fields
+│   ├── Classical Interfaces
+│   │   ├── FPGA Gateware
+│   │   ├── Raspberry Pi/Arduino Control
+│   │   ├── Real-time Feedback & Error Correction
+│
+├── Quantum Circuit Design
+│   ├── Quantum Gates
+│   │   ├── Single-Qubit Gates
+│   │   ├── Multi-Qubit Gates (CNOT, Toffoli, etc.)
+│   ├── Quantum Error Correction
+│   │   ├── Surface Code
+│   │   ├── Steane Code
+│   │   ├── Shor Code
+│
+└── Applications & Experiments
+    ├── Quantum Key Distribution (QKD)
+    ├── Quantum Random Number Generation (QRNG)
+    ├── Variational Quantum Algorithms (VQE, QAOA)
+    ├── Quantum Simulation (Chemistry, Material Science)

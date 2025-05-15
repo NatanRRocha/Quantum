@@ -1,0 +1,46 @@
+Superquantum Computing Models
+│
+├── Classical Computing (Baseline)
+│
+├── Quantum Computing
+│   ├── Gate-Based Quantum Computing
+│   │   ├── Universal Quantum Circuits
+│   │   ├── Quantum Error Correction
+│   │   ├── Topological Quantum Computing
+│   │   ├── Fault-Tolerant Quantum Computing
+│   │
+│   ├── Quantum Annealing
+│   ├── Measurement-Based Quantum Computing (MBQC)
+│   ├── Adiabatic Quantum Computing
+│   ├── Cluster-State Computing
+│
+├── Beyond Standard Quantum Computing
+│   ├── Superquantum Correlations (Nonlocality)
+│   │   ├── Popescu-Rohrlich (PR) Boxes
+│   │   ├── No-Signaling Theories
+│   │   ├── Generalized Probabilistic Theories (GPTs)
+│   │
+│   ├── Higher-Dimensional Hilbert Spaces
+│   │   ├── Qudit-Based Computing
+│   │   ├── Continuous-Variable Quantum Computing
+│   │
+│   ├── Exotic Quantum Information Models
+│   │   ├── Nonlinear Quantum Mechanics
+│   │   ├── Post-Quantum Cryptography
+│   │   ├── Quantum Gravity Theories (Holographic, AdS/CFT)
+│   │
+│   ├── AdS/CFT-Inspired Computation
+│   │   ├── Computational Complexity in Spacetime
+│   │   ├── ER=EPR Conjecture for Quantum Networks
+│   │
+│   ├── Computational Models Beyond Quantum
+│       ├── Hypercomputing Models (Oracle-Based)
+│       ├── Planck-Scale Information Processing
+│       ├── Black Hole Computation (Holographic Bounds)
+│       ├── Time-Symmetric Quantum Computing
+│
+└── Speculative Paradigms
+    ├── Superluminal Information Processing
+    ├── Closed Timelike Curves (CTCs) for Computation
+    ├── Emergent Spacetime Computation
+    ├── Multiverse-Based Quantum Computation

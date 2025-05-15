@@ -1,0 +1,44 @@
+Quantum Boost Models
+│
+├── Fundamental Concepts
+│   ├── Qubits as Information Units
+│   ├── Superposition & Entanglement
+│   ├── Quantum Gates & Circuits
+│   ├── Quantum Measurement
+│
+├── Algorithmic Framework
+│   ├── Quantum Boost Algorithms
+│   │   ├── Optimization Algorithms
+│   │   ├── Cryptographic Algorithms
+│   │   ├── Simulation Algorithms
+│   │   ├── Machine Learning Algorithms
+│   │
+│   ├── Data Structures in Quantum Computing
+│   │   ├── Quantum Registers
+│   │   ├── Quantum Memory
+│   │   ├── Quantum Graphs & Networks
+│
+├── Computational Models
+│   ├── Quantum Automata
+│   ├── Quantum Turing Machines
+│   ├── Quantum Circuit Model
+│   ├── Quantum Annealing
+│
+├── Complexity Analysis
+│   ├── Computational Complexity Classes
+│   │   ├── BQP (Bounded Quantum Polynomial Time)
+│   │   ├── PSPACE vs NP in Quantum Context
+│   │   ├── Quantum vs Classical Complexity
+│
+├── Applications & Use Cases
+│   ├── Cryptography (Quantum Key Distribution, Post-Quantum Cryptography)
+│   ├── Optimization (Quantum Annealing, Variational Algorithms)
+│   ├── Simulation (Molecular, Physical, Financial)
+│   ├── AI & Machine Learning (Quantum Neural Networks, Quantum SVM)
+│
+└── Future Directions & Research
+    ├── Hardware Innovations
+    ├── Error Correction & Fault Tolerance
+    ├── Scalability Challenges
+    ├── Hybrid Quantum-Classical Computing
+    ├── New Quantum Algorithm Discoveries

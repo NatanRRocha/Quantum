@@ -1,0 +1,25 @@
+DIY Quantum Computing
+│
+├── Quantum Hardware
+│   ├── Superconducting Qubits
+│   ├── Trapped Ions
+│   ├── Photonic Qubits
+│   ├── Spin-based Qubits
+│
+├── Quantum Software
+│   ├── Qiskit
+│   ├── Cirq
+│   ├── Braket
+│   ├── Strawberry Fields
+│
+├── Quantum Algorithms
+│   ├── Quantum Fourier Transform
+│   ├── Grover’s Algorithm
+│   ├── Variational Circuits
+│   ├── Quantum Error Correction
+│
+└── Quantum Applications
+    ├── Quantum Cryptography
+    ├── Optimization
+    ├── Quantum Chemistry
+    ├── Machine Learning

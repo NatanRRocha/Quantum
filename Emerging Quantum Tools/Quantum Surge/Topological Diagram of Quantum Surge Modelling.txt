@@ -1,0 +1,55 @@
+Quantum Surge Models
+│
+├── Physical Layer
+│   ├── Superconducting Qubits
+│   ├── Trapped Ions
+│   ├── Photonic Qubits
+│   ├── Topological Qubits
+│   ├── Neutral Atoms
+│
+├── Quantum Gates & Operations
+│   ├── Single-Qubit Gates
+│   │   ├── Hadamard Gate (H)
+│   │   ├── Pauli Gates (X, Y, Z)
+│   │   ├── Phase Gate (S, T)
+│   │   ├── Rotation Gates (Rx, Ry, Rz)
+│   │
+│   ├── Multi-Qubit Gates
+│       ├── CNOT Gate
+│       ├── Toffoli Gate
+│       ├── SWAP Gate
+│       ├── Controlled-U Gates
+│
+├── Quantum Circuits
+│   ├── Quantum Fourier Transform (QFT)
+│   ├── Quantum Phase Estimation (QPE)
+│   ├── Quantum Error Correction (QEC)
+│   │   ├── Shor Code
+│   │   ├── Surface Code
+│   │   ├── Steane Code
+│
+├── Quantum Algorithms
+│   ├── Search Algorithms
+│   │   ├── Grover’s Algorithm
+│   ├── Factoring Algorithms
+│   │   ├── Shor’s Algorithm
+│   ├── Optimization Algorithms
+│   │   ├── Quantum Approximate Optimization Algorithm (QAOA)
+│   │   ├── Variational Quantum Eigensolver (VQE)
+│   ├── Quantum Machine Learning (QML)
+│   │   ├── Quantum Support Vector Machines (QSVM)
+│   │   ├── Quantum Neural Networks (QNN)
+│
+├── Quantum Hardware & Architecture
+│   ├── Quantum Processing Units (QPU)
+│   ├── Quantum Cloud Platforms
+│   ├── Quantum Network Infrastructure
+│
+└── Applications
+    ├── Cryptography
+    │   ├── Post-Quantum Cryptography
+    │   ├── Quantum Key Distribution (QKD)
+    ├── Drug Discovery & Material Science
+    ├── Financial Modeling
+    ├── Artificial Intelligence & Machine Learning
+    ├── Quantum Simulation

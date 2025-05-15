@@ -1,0 +1,70 @@
+Quantum Domain Model
+│
+├── Quantum Foundations
+│   ├── Quantum Mechanics
+│   ├── Quantum Information Theory
+│   ├── Quantum Entanglement & Superposition
+│   ├── Quantum Decoherence & Measurement
+│   └── Quantum Many-Body Systems
+│
+├── Quantum Computation
+│   ├── Quantum Gates & Circuits
+│   ├── Quantum Error Correction
+│   ├── Quantum Algorithms
+│   │   ├── Grover’s Algorithm
+│   │   ├── Shor’s Algorithm
+│   │   ├── Variational Quantum Eigensolver (VQE)
+│   │   ├── Quantum Approximate Optimization Algorithm (QAOA)
+│   │   └── Quantum Machine Learning (QML)
+│   ├── Quantum Hardware
+│   │   ├── Superconducting Qubits
+│   │   ├── Trapped Ions
+│   │   ├── Photonic Quantum Computing
+│   │   ├── Topological Qubits
+│   │   └── Neutral Atoms
+│   └── Quantum Software & Frameworks
+│
+├── Quantum Communication & Cryptography
+│   ├── Quantum Key Distribution (QKD)
+│   ├── Quantum Teleportation
+│   ├── Post-Quantum Cryptography
+│   ├── Quantum Secure Networks
+│   └── Quantum Internet
+│
+├── Quantum Simulation
+│   ├── Quantum Chemistry Simulations
+│   ├── Condensed Matter Simulations
+│   ├── Quantum Field Theory Simulations
+│   ├── High-Energy Physics Simulations
+│   └── Biological & Molecular Quantum Simulations
+│
+├── Quantum Artificial Intelligence
+│   ├── Quantum Machine Learning (QML)
+│   │   ├── Quantum Neural Networks
+│   │   ├── Quantum Generative Models
+│   │   ├── Quantum Support Vector Machines
+│   │   ├── Quantum Reinforcement Learning
+│   │   └── Hybrid Quantum-Classical Learning
+│   ├── Quantum Data Processing
+│   ├── Quantum Feature Spaces
+│   └── Quantum Optimization for AI
+│
+├── Quantum Optimization
+│   ├── Hybrid Quantum-Classical Optimization
+│   ├── Combinatorial Optimization
+│   ├── Quantum Annealing
+│   ├── Portfolio & Risk Optimization
+│   └── Logistics & Supply Chain Optimization
+│
+└── Unified Quantum Theories & Advanced Topics
+    ├── Quantum Gravity & Cosmology
+    ├── Quantum Metrology & Precision Measurement
+    ├── Quantum Thermodynamics
+    ├── Quantum Biology
+    ├── Quantum Nanotechnology
+    ├── Quantum Materials Science
+    ├── Quantum Neuromorphic Computing
+    ├── Quantum Sensing
+    ├── Quantum-Controlled Systems
+    ├── Quantum Cybernetics
+    └── Interdisciplinary Quantum Science
