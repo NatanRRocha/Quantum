@@ -27,3 +27,5 @@ The Quantum Algorithm GPT is tailored to not only explain these concepts but als
 [Quantum Weight](https://github.com/sourceduty/Quantum_Weight)
 <br>
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
+<br>
+[Cyclotron Simulation](https://github.com/sourceduty/Cyclotron_Simulation)
